@@ -1,0 +1,17 @@
+String task_name = 'task 1';
+String login_page = 'Login Page';
+String detail_page = "Detail Page";
+String main_page = "Main screen";
+String signup_page = "Signup Page";
+String login_credential = "Login Credential";
+String signup_successufully = 'Account created successfully';
+String firebase_exception = 'Firebase Exception';
+String local_exception = 'local Exceptione';
+String login_success = 'Login success';
+String e_code_wrong_passwd = 'wrong-password';
+String wrong_passwd = 'Wrong password provided for that user.';
+int splash_duration = 3;
+int popup_menu_item_0 = 0;
+int popup_menu_item_1 = 1;
+int passwd_length = 5;
+String splash_image = "assets/apple.jpg";
